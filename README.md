@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <table border="0" align="left">
   <tr border="0">
     <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Joelru&theme=vue-dark&show_icons=true&count_private=true" />
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CoroC24&theme=vue-dark&show_icons=true&count_private=true" />
     <br></br>
     <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoroC24&theme=vue-dark&hide_border=true" />
 </table>
