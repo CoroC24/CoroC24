@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: idk
 
-<table border="0" align="left">
+<table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CoroC24&theme=vue-dark&show_icons=true&count_private=true" />
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<table border="0" align="right">
+<table border="0" align="center">
   <td width="50%" align="center">
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CoroC24&theme=vue-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
