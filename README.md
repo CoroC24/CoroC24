@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**CoroC24/CoroC24**
+**CoroC24**
 
 Here are some ideas to get you started:
 
