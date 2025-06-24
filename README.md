@@ -2,8 +2,6 @@
 
 **CoroC24**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on WPOSS & Dozy Project
 - 🌱 I’m currently learning Jetpack Compose
 - 💬 Ask me about Android, Java and Kotlin.
