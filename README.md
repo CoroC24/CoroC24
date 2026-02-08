@@ -20,7 +20,7 @@
 
 <table border="0" align="center">
   <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CoroC24&theme=vue-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CoroC24&theme=vue-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=15"/>
   </td>
   </tr>
 </table>
